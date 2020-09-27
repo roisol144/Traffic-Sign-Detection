@@ -24,7 +24,7 @@ I used the The German Traffic Sign Recognition Benchmark [(GTSRB)](http://benchm
 
 ## Result - 97% Acccuracy:
 
-    [picture](ACCURACY.PNG)
+    [picture](https://github.com/roisol144/Traffic-Sign-Detection/blob/master/ACCURACY.PNG)
 
 ## GTSRB Database:
 
