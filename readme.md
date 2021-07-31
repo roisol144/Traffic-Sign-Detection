@@ -8,7 +8,7 @@ I used the The German Traffic Sign Recognition Benchmark [(GTSRB)](http://benchm
 
     Tested the effects of hidden layers on the accuracy of the model.
 
-### Hidden Layers Added:
+### Hidden Layers:
 
 ```python
 
